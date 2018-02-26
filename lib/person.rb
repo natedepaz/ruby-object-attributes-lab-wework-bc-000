@@ -11,7 +11,7 @@ class Person
    person_job = @job
  end
  
- def Job=(new_job)
+ def Job= (new_job)
    @breed = new_job
  end
 end
